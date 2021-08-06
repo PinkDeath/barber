@@ -1,2 +1,2 @@
-# barber
-portfolio
+# Portfolio
+barber
